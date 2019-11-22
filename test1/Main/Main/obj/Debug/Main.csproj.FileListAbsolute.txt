@@ -1,0 +1,13 @@
+C:\Users\0836092\source\repos\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\0836092\source\repos\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\0836092\source\repos\Main\Main\bin\Debug\Main.exe.config
+C:\Users\0836092\source\repos\Main\Main\bin\Debug\Main.exe
+C:\Users\0836092\source\repos\Main\Main\bin\Debug\Main.pdb
+C:\Users\0836092\source\repos\Main\Main\obj\Debug\Main.exe
+C:\Users\0836092\source\repos\Main\Main\obj\Debug\Main.pdb
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\obj\Debug\Main.exe
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\obj\Debug\Main.pdb
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\bin\Debug\Main.exe.config
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\bin\Debug\Main.exe
+C:\Users\NSBodywork\Source\Repos\NaghiNoori\test1\Main\Main\bin\Debug\Main.pdb
